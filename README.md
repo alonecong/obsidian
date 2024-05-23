@@ -1,0 +1,2 @@
+# obsidian
+pic save
